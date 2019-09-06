@@ -6,11 +6,11 @@ For more information, please refer to the following:
 
 ## Citation
 @article{zhang2019deep,  
-  title={Deep long short-term memory networks for nonlinear structural seismic response prediction},  
-  author={Zhang, Ruiyang and Chen, Zhao and Chen, Su and Zheng, Jingwei and B{\"u}y{\"u}k{\"o}zt{\"u}rk, Oral and Sun, Hao},  
-  journal={Computers \& Structures},  
-  volume={220},  
-  pages={55--68},  
-  year={2019},  
-  publisher={Elsevier}  
-}
+         title={Deep long short-term memory networks for nonlinear structural seismic response prediction},  
+         author={Zhang, Ruiyang and Chen, Zhao and Chen, Su and Zheng, Jingwei and B{\"u}y{\"u}k{\"o}zt{\"u}rk, Oral and Sun, Hao},  
+         journal={Computers \& Structures},  
+         volume={220},  
+         pages={55--68},  
+         year={2019},  
+         publisher={Elsevier}  
+         }
