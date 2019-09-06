@@ -3,3 +3,15 @@ We introduce the Deep LSTM for highly nonlinear system modeling and prediction. 
 
 For more information, please refer to the following:
 * Zhang, R., Chen, Z., Chen, S., Zheng, J., Büyüköztürk, O., & Sun, H. (2019). [Deep long short-term memory networks for nonlinear structural seismic response prediction](https://doi.org/10.1016/j.compstruc.2019.05.006). Computers & Structures, 220, 55-68.
+
+<pre>
+@article{zhang2019deep,  
+         title={Deep long short-term memory networks for nonlinear structural seismic response prediction},  
+         author={Zhang, Ruiyang and Chen, Zhao and Chen, Su and Zheng, Jingwei and Büyüköztürk, Oral and Sun, Hao},  
+         journal={Computers & Structures},  
+         volume={220},  
+         pages={55--68},  
+         year={2019},  
+         publisher={Elsevier}  
+         }
+</pre>
